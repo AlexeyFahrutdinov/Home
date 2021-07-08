@@ -43,3 +43,4 @@ print(num_list)
 
 new_list.reverse()
 print(new_list)
+# Новый текст
